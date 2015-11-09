@@ -1,9 +1,9 @@
 # MVPLN_Matlab
 
-A fast parallelized implementation of the MCMC estimation procedure for Multivariate Poisson Log-normal (MVPLN) model developed by Chib and Winkelmann (2001).
+A fast parallel implementation of the MCMC estimation procedure for Multivariate Poisson Log-normal (MVPLN) model developed by Chib and Winkelmann (2001).
 For details about the implementation, please check our forthcoming paper in AMAR.
 
-To use the code, modify and configurations in the modelConfig.m, and then you are OK to go!
+To use the code, modify the configurations in the modelConfig.m, and then you are OK to go!
 
 The code is implemented in Matlab and tested in Matlab 2014a, 2014b. You will need the Matlab Parallel Computing toolbox to enable the parallelization.
 
