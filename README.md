@@ -9,4 +9,4 @@ The code is implemented in Matlab and tested in Matlab 2014a, 2014b. You will ne
 
 
 Citation: 
-Zhan, X., Aziz, H. M., Ukkusuri, S. V. An efficient parallel sampling technique for Multivariate Poisson-Lognormal model: Analysis with two crash count datasets. Accepted in Analytic Methods in Accident Research.
+Zhan, X., Aziz, H. M., Ukkusuri, S. V. An efficient parallel sampling technique for Multivariate Poisson-Lognormal model: Analysis with two crash count datasets, 2015. Analytic Methods in Accident Research, 8, 45-60.
